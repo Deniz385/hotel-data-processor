@@ -1,0 +1,9 @@
+# Composer bağımlılıkları
+/vendor/
+
+# Kullanıcı tarafından yüklenen ve program tarafından oluşturulan dosyalar
+/uploads/
+/output/
+
+# Log dosyaları
+debug.log

@@ -1,0 +1,22 @@
+# Bağımlılıklar
+/node_modules
+
+# Next.js Build çıktıları ve Cache
+/.next/
+/out/
+
+# Üretim (Production)
+/build
+
+# Log ve Debug Dosyaları
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Gizli Ortam Değişkenleri
+.env*.local
+
+# İşletim Sistemi ve Diğerleri
+.DS_Store
+*.pem
+.vercel
